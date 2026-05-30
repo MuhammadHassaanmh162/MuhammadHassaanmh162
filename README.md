@@ -184,7 +184,7 @@ const muhammadHassaan = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadHassaanmh162&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadHassaanmh162&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHassaanmh162&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
