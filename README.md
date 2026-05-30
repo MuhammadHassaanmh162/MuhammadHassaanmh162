@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="100%" src="https://github.com/MuhammadHassaanmh162/MuhammadHassaanmh162/blob/main/banner_img.jpg" alt="header">
+  <img width="100%" src="./banner.jpg" alt="header">
 </p>
 
 <h1 align="center">
